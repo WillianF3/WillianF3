@@ -19,6 +19,8 @@
 ### 💎 Lili Body Piercer
 Landing page responsiva com catálogo de produtos, interatividade com JavaScript e integração com WhatsApp.
 
+🌐 **[Acessar site oficial](https://lilibody.com/)**
+
 [Ver repositório](https://github.com/WillianF3/Lili-Teixeira-Body-Piercer)
 
 ## 🎯 Objetivos
